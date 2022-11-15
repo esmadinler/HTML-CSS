@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>Çalışma</title>
+
+<link href="harici_css_stil_.css" rel="stylesheet" type="text/css" />
+
+</head>
+<body>
+<div id="büyük">
+	<div id="k1">bir</div>
+	<div id="k2">iki</div>
+	<div id="k3">üç</div>
+	<div id="k4">dört</div>
+	<div id="k5">beş</div>
+</div>
+</body>
+</html>
+
+//harici css
+
+body
+{background-color:pink;}
+
+#büyük{border:1px solid grey;height:400px;width:800px;position:relative;margin:0 auto;}
+
+#k1{width:100px;height:100px;position:absolute;left:0;top:0;background-color:red;text-align:center;line-height:100px;}
+
+#k2{width:100px;height:100px;position:absolute;right:0;top:0;
+background-color:blue;text-align:center;line-height:100px;}
+
+#k3{width:100px;height:100px;position:absolute;left:0;bottom:0;
+background-color:yellow;text-align:center;line-height:100px;}
+
+#k4{width:100px;height:100px;position:absolute;right:0;bottom:0;
+background-color:green;text-align:center;line-height:100px;}
+
+#k5{width:100px;height:100px;background-color:#930;
+border-radius:50px;position:absolute;margin-left:350px;
+margin-top:150px;text-align:center;line-height:100px;}
