@@ -1,0 +1,121 @@
+<html>
+<head>
+<title>Web Sitesi Taslak 1</title>
+<style>
+
+#ilk
+{
+  width:1000px;
+  background-color:#999;
+  height:100px;
+}
+
+#bir
+{
+ width:200px;
+ height:100px;
+ background-color:#666;                          
+ float:left;
+ 
+ background-image:url(Untitled-1.fw.png);
+ background-repeat:no-repeat;
+}
+ 
+#iki
+{ 
+ width:780px;
+ height:70px;
+ background-color:#CCC;
+ float:left;
+ padding-left:20px;
+ padding-top:30px;
+}
+
+#orta
+{
+  width:1000px;
+  background-color:#9C9;
+  height:400px;
+}
+
+#üç
+{
+  height:400px;
+  width:200px;
+  float:left;
+  background-color:#999; 
+}
+  
+#dört
+{height:400px;
+  width:800px;
+  float:left;
+  background-color:#666;
+  
+  background-image:url(web-tasarim.jpg);
+  background-repeat:no-repeat;
+  
+  font-size:34px;
+  color:#03F;
+}
+	
+#beş
+{ 
+ width:1000px;
+ height:100px;
+ background-color:#CCC;
+}
+
+</style>
+</head>
+
+<body>
+<div  id="baş">
+
+<div id="ilk">
+<div id="bir"> </div>
+	<div id="iki">
+<a href="http://www.anasayfa.com">Anasayfa</a> 
+<a href="http://www.anasayfa.com">Hakkımızda</a> 
+<a href="http://www.anasayfa.com">Projeler</a> 
+<a href="http://www.anasayfa.com">Resimler</a> 
+<a href="http://www.anasayfa.com">Bilgi Merkezi</a> 
+<a href="http://www.anasayfa.com">İletişim</a> 
+
+	</div>
+</div>
+
+<div id="orta">
+<div id="üç">
+<h2>Hizmetler</h2>
+    <ul>
+    <li>Web Tasarım</li>
+       <ul> 
+		<li>Profesyonel Web Tasarım</li>
+		<li>Kurumsal Web Tasarım</li>
+		<li>Kartvizit Web Sitesi</li>
+                <li>Kişisel Web Tasarım</li>
+       </ul>
+    <li>Grafik Tasarım</li>
+    <li>Sosyal Medya Danışmanlığı</li>
+    <li>Seo (Arama Motoru Optimizasyonu)</li>
+    <li>Domain</li>
+    <li>Hosting</li>
+    </ul>
+
+</div>
+<div id="dört"> 
+<br><br>Web Tasarım ihtiyaçlarınız için <br> doğru adres.
+
+</div>
+</div>
+
+<div id="beş"> <br>Dinler Bilişim İletişim Yay. ve Ajans Hizm. Ltd. Şti. 2004-2019 © Tüm Hakları Saklıdır.<br><br>
+
+Pendik/İstanbul/Türkiye<br>
+</div>
+
+</div>
+
+</body>
+</html>
