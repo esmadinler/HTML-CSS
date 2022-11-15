@@ -1,0 +1,34 @@
+<html>
+<head>
+<title>Bayrak Tasarımı</title>
+<style>
+
+ body
+ {background:black;
+ }
+ 
+ #ilk
+ { height:300px;
+   width:800px;
+   margin-left:auto;
+   margin-right:auto;
+   background-color:white;
+   padding-top:100px;
+ }
+ 
+ #ikinci
+ { height:200px;
+   width:200px;
+   border-radius:200px;
+   background-color:red;
+   margin-left:auto;
+   margin-right:auto;
+ }
+
+</style>
+</head>
+<body>
+<div id="ilk">
+<div id="ikinci"></div></div>
+</body>
+</html>
