@@ -1,0 +1,46 @@
+<html>
+<head>
+<title>Telefon Tasarımı</title>
+<style>
+#endış
+{
+	width:210px;
+	height:430px;
+	border:2px solid black;
+	border-radius:30px;
+}
+
+#iç
+{
+	width:180px;
+	height:350px;
+	border:2px solid black;
+	margin-left:auto;
+	margin-right:auto;
+    margin-top:25px;
+	background-image:url(ios8final20.png);
+}
+
+#küçük
+{
+	width:30px;
+	height:30px;
+	border:2px solid black;
+	border-radius:15px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:5px;
+}
+
+</style>
+</head>
+<body>
+
+<div id="endış">
+	<div id="iç"></div>
+	<div id="küçük"></div>
+</div>
+</div>
+
+</body>
+</html>
