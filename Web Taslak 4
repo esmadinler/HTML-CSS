@@ -1,0 +1,93 @@
+<html>
+<head>
+<title>Web Sitesi Taslak 4</title>
+<style>
+body{background-color:#B81B32;}
+
+#container{width:1000px;margin:0 auto;}
+
+#kutu1{width:920px;height:80px;margin:auto;}
+
+#logo{width:200px;color:white;font-size:20px;float:left;}
+
+#menu{width:650px;height:80px;float:left;background-color:#909;
+border-top-right-radius:20px;border-top-left-radius:20px;}
+
+#content{width:920px;height:600px;padding:40px;
+background-color:white;border-radius:40px;}
+
+ul{list-style-type:none;margin:0;padding:0;}
+
+a{text-decoration:none;text-transform:uppercase;
+display:block;
+color:#FFF;
+text-align:center;
+float:right;
+line-height:80px;
+width:130px;
+height:80px;}
+
+a:hover
+{background-color:#C09;color:black;}
+
+#image{background-image:url(Jellyfisuh.fw.png);width:600px;height:250px;border-radius:40px;float:left;margin-bottom:20px;}
+
+#sağdakiyazı{width:270px;height:580px;float:right;}
+
+#alttakiyazı{width:650px;}
+
+#buton{display:block;width:150px;height:50px;
+background-color:#93F;float:left;line-height:50px;
+margin-top:30px;}
+
+
+</style>
+</head>
+<body>
+
+<div id="container">
+<div id="kutu1">
+	<div id="logo"><h1>Prospect</h1></div>
+	<div id="menu">
+    <ul>
+<li><a href="#">asasasas</a></li>
+<li><a href="#">asasasaa</a></li>
+<li><a href="#">asasasas</a></li>
+<li><a href="#">asasasas</a></li>
+<li><a href="#">asasasas</a></li>
+</ul> </div></div>
+   
+<div id="content">
+	<div id="image"></div>
+    <div id="sağdakiyazı">
+    <p>sasasasassasasasas</p><hr />
+    <p>sasasasasassasasas</p>
+    <p>sasasasasassasasas</p>
+    <p>sassasasasasasasas</p><hr />
+    <p>sassasasasasasasas</p>
+    <p>sassasasasasasasas</p>
+    <p>sasasasasasassasas</p><hr />
+    <p>sassasasasasasasas</p>
+    <p>sasasasasasassasas</p>
+    <p>sasasasasasassasas</p><hr />
+    <p>sasasasasasassasas</p>
+    <p>sasassasasasasasas</p>
+    <p>sasasasasasassasas</p><hr />
+    <p>sasasasasasasassas</p>
+    <p>sasassasasasasasas</p>
+    </div>
+    
+    <div id="alttakiyazı">
+    <p>sasasasasasassasasasasasassasasasas</p>
+    <p>sasasasasasassasasasasasasassasasas</p>
+    <p>sasasasasasassasasasasasasassasasas</p>
+    <p>sasssasasasassasasasaasasasasasasas</p>
+    <p>sasssasasasassasasasaasasasasasasas</p>
+    <p>sasssasasasassasasasaasasasasasasas</p>
+    
+    <a href="#" id="buton">buton</a></div>
+    
+</div>
+</div>
+</body>
+</html>
