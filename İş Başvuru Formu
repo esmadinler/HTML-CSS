@@ -1,0 +1,77 @@
+<html>
+<head><title>İş Başvuru Formu</title></head>
+<body>
+<table border="2">
+
+<tr><td colspan="2" text align="center">
+<b>İş Başvuru Formu</b></td></tr>
+
+<tr>
+<td>Adı</td>
+<td><input type="text"></td>
+</tr>
+
+<tr>
+<td>Soyadı</td>
+<td><input type="text"></td>
+</tr>
+
+<tr>
+<td>Doğum Tarihi</td>
+<td><input type="text"></td>
+</tr>
+
+<tr>
+<td>Doğum Yeri</td>
+<td><select><option>Samsun</option></select></td>
+</tr>
+
+<tr>
+<td>Cinsiyet</td>
+<td><input type="radio" name="cinsiyet">Kadın
+<input type="radio" name="cinsiyet">Erkek</td>
+</tr>
+
+<tr>
+<td>Refaranslar</td>
+<td><textarea name="refereans"></textarea></td>
+</tr>
+
+<tr>
+<td>Alışkanlıklar</td>
+<td><input type="radio" name="sigara">Sigara İçiyorum
+<input type="radio" name="sigara">Sosyal İçiciyim<input type="radio" name="sigara">İçmiyorum</td>
+</tr>
+
+<tr><td rowspan="6">Yabancı Dil</td></tr>
+<tr><td><input type="checkbox" name="dil">İngilizce</td>
+</tr>
+<tr><td><input type="checkbox" name="dil">Almanca</td></tr>
+<tr><td><input type="checkbox" name="dil">Fransızca</td>
+</tr>
+<tr><td><input type="checkbox" name="dil">İspanyolca</td>
+</tr>
+<tr><td><input type="checkbox" name="dil">Çince</td></tr>
+
+<tr>
+<td>Askerlik</td>
+<td><select><option>Tecilli</option></select></td>
+</tr>
+
+<tr>
+<td>Eğitim</td>
+<td><select><option>Lise</option></select></td>
+</tr>
+
+<tr>
+<td>Geçmiş İşler</td>
+<td><textarea name="geçmiş işler"></textarea></td>
+</tr>
+
+<tr>
+<td colspan="2" text align="center"><input type="submit" value="kaydet">
+</td></tr>
+
+</table>
+</body>
+</html>
