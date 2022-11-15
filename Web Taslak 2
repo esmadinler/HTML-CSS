@@ -1,0 +1,72 @@
+<html>
+<head>
+<title>Web Sitesi Taslak 2</title>
+<style>
+
+body{background-color:#ad8667;}
+
+#container{width:1180px;}
+
+#header{width:1180px;}
+
+#logo{height:120px;width:240px;background-image: url(Untitled-1.fw.png);float:left;}
+
+#menu{color:#f4eeea;width:745px;height:120px;float:right;}
+
+#content{width:1180px;}
+
+ul{list-style-type:none;margin:0;padding:0;}
+
+a
+{display:block;color:#FFF;text-decoration:none;
+
+text-align:center;width:98px;background-color:#ad8667;
+float:left;height:36px;line-height:120px;}
+
+#sol{width:240px;padding:40px;background-color:#322516;float:left;}
+
+#sag{width:745px;background-color:white;float:left;
+margin-left:30px;padding:40px;}
+
+</style>
+</head>
+<body>
+<div id="container">
+<div id="header">
+    <div id="logo"></div>
+    <div id="menu">
+    <ul>
+    <li><a href="#">sasasdsaas</a></li>
+	<li><a href="#">asassdaasa</a></li>
+	<li><a href="#">dasdadassdsa</a></li>
+	<li><a href="#">dsadasadsdaa</a></li>    
+    <li><a href="#">gfdgddasdfgdf</a></li>
+    <li><a href="#">sadassdadas</a></li></ul>
+    </div>
+    </div>
+    <div id="content">
+   	    <div id="sol">
+        <p>dsadasdssadsasdaasd</p>
+        <p>dsadasdssadsasdaasd</p>
+        <p>dsadasdssadsasdaasd</p>
+        <p>dsadasdssadsasdaasd</p>
+        <p>dsadasdssadsasdaasd</p>
+        <p>dsadasdssadsasdaasd</p>
+        <p>dsadasdssadsasdaasd</p>
+        <p>dsadasdssadsasdaasd</p>
+        <p>dsadasdssadsasdaasd</p>
+        </div>
+    	<div id="sag">
+        <p>dsadasdssadsasdaasd</p>
+        <p>dsadasdssadsasdaasd</p>
+        <p>dsadasdssadsasdaasd</p>
+        <p>dsadasdssadsasdaasd</p>
+        <p>dsadasdssadsasdaasd</p>
+        <p>dsadasdssadsasdaasd</p>
+        <p>dsadasdssadsasdaasd</p>
+        <p>dsadasdssadsasdaasd</p>
+        <p>dsadasdssadsasdaasd</p></div>
+    </div>
+</div>
+</body>
+</html>
