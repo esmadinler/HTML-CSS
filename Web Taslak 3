@@ -1,0 +1,64 @@
+<html>
+<head>
+<title>Web Sitesi Taslak 3</title>
+<style>
+
+body{background-color:#e1e4e5;}
+
+#container{width:1180px;padding-top:30px;margin:0 auto;}
+
+#logo{width:1124px;height:126px;text-align:center;color:black;font-size:50px;font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;}
+
+#menu{background-color:#8f5038;height:56px;width:1180px;margin-bottom:27px;}
+
+#resim{width:1124px;height:212px;background-color:blue;margin:auto;border:28px solid white;margin-bottom:54px;}
+
+#sol{width:232px;background-color:white;float:left;margin-right:108px;}
+
+#orta{width:500px;background-color:white;float:left;margin-right:108px;}
+
+#sag{width:232px;background-color:white;float:left;}
+
+ul{list-style-type:none;margin:0;padding:0;}
+
+a{display:block;color:white;text-decoration:none;
+float:left;margin-left:58px;text-align:center;line-height:56px;}
+
+a:hover{background-color:#00F;color:black;}
+
+p{text-align:center;}
+
+h1{text-align:center;}
+
+</style>
+</head>
+<body>
+<div id="container">
+    <div id="logo">reverse obscurity</div>
+    <div id="menu">
+    <ul>
+    <li><a href="#">sasasdsaas</a></li>
+	<li><a href="#">asassdaasa</a></li>
+	<li><a href="#">dasdadassdsa</a></li>
+	<li><a href="#">dsadasadsdaa</a></li>    
+    <li><a href="#">gfdgddasdfgdf</a></li>
+    <li><a href="#">sadassdadas</a></li>
+    <li><a href="#">gfdgddasdfgdf</a></li>
+    <li><a href="#">sadassdadas</a></li></ul>
+    
+    </div>
+    <div id="resim"></div>
+    <div id="content">
+        <div id="sol"><h1>sasasasasasa</h1>
+        <p>sasasasasasasa</p><p>sasasasasasasa</p><p>sasasasasasasa</p><p>sasasasasasasa</p><p>sasasasasasasa</p><p>sasasasasasasa</p><p>sasasasasasasa</p><p>sasasasasasasa</p></div>
+        <div id="orta">
+        <h1>sasasasasasa</h1>
+        <p>sasasasasasasa</p><p>sasasasasasasa</p><p>sasasasasasasa</p><p>sasasasasasasa</p><p>sasasasasasasa</p><p>sasasasasasasa</p><p>sasasasasasasa</p><p>sasasasasasasa</p></div>
+        <div id="sag">
+        <h1>sasasasasasa</h1>
+        <p>sasasasasasasa</p><p>sasasasasasasa</p><p>sasasasasasasa</p><p>sasasasasasasa</p><p>sasasasasasasa</p><p>sasasasasasasa</p><p>sasasasasasasa</p><p>sasasasasasasa</p></div>
+    </div>
+
+</div>
+</body>
+</html>
