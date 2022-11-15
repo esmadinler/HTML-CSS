@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>Menu Çalışması</title>
+<style>
+
+ul
+{list-style-type:none;}
+
+a
+{display:block;
+color:white;
+font-size:14px;
+text-decoration:none;
+padding:15px 0;
+width:190px;
+background-color:#A99C89;
+border-bottom:1px solid #8F7964;
+text-transform:uppercase;
+text-align:center;
+}
+
+a:hover
+{font-size:14px;
+color:#A99C89;
+background-color:white;}
+
+</style>
+</head>
+<body>
+
+<ul>
+	<li><a href="#">Anasayfa</a></li>
+	<li><a href="#">Hakkımızda</a></li>
+	<li><a href="#">İletişim</a></li>
+  <li><a href="#">Fotoğraflar</a></li>
+	<li><a href="#">Projeler</a></li>
+</ul>
+</body>
+</html>
